@@ -2,7 +2,7 @@ let img;
 
 function setup() {
     createCanvas(window.innerWidth - 10, window.innerHeight - 12, WEBGL);
-    img = loadImage('boxes/gradient.png');
+    img = loadImage('https://rivermerrill.github.io/boxes/gradient.png');
 }
 
 function draw() {
